@@ -1,4 +1,4 @@
-## CJKV Input Method Samples
+## CJKV Input Method Collection
 
 This is a subproject of [Smaji CJKV](https://cjkv.smaji.org).
 
@@ -47,7 +47,7 @@ The file contains only one line of encoding.
     -   fix or make new files containing input method encoding, follow the directory and file structure
 
 2.  provide basic information of the glyphs the pull request will alter
-    -   the corresponding glyphs in the [cjkv\_glyph\_sample](https://github.com/smaji-org/cjkv_glyph_sample) library.
+    -   the corresponding glyphs in the [cjkv\_glyph\_collection](https://github.com/smaji-org/cjkv_glyph_collection) library.
 
 3.  collaborators will verify the input method encoding manually
 
