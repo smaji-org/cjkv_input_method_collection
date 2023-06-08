@@ -13,18 +13,25 @@ In this way, we can always input any cjkv characters easily.
 
     .
     └── glyph
-        ├── 4e20
-        │   ├── cangjie5
-        │   └── zhengma
-        ├── 4e21,e01ef
-        │   ├── cangjie5
-        │   └── zhengma
-        ├── 697c
-        │   ├── cangjie5
-        │   └── zhengma
-        └── 2b744
-            ├── cangjie5
-            └── zhengma
+        ├── 4e20
+        │   └── 0
+        │       ├── cangjie5
+        │       └── zhengma
+        ├── 4e21
+        │   ├── 0
+        │   │   ├── cangjie5
+        │   │   └── zhengma
+        │   └── e01ef
+        │       ├── cangjie5
+        │       └── zhengma
+        ├── 697c
+        │   └── 0
+        │       ├── cangjie5
+        │       └── zhengma
+        └── 2b744
+            └── 0
+                ├── cangjie5
+                └── zhengma
 
 All glyphs have their individual directory, placed in the `glyph` directory. In each glyph directory, input method encoding files are placed and the content of the files are corresponding input method encoding as the file name denoted.
 
