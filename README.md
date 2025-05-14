@@ -46,7 +46,7 @@ The file contains only one line of encoding.
 2b744(𫝄) is ambiguous in zhengma encoding, it can be interpreted as throw + 人 or throw-throw + press, so the content of the file consists of two lines
 
     mod
-    odm
+    ods
 
 ### Processing flow
 
