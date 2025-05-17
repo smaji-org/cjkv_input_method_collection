@@ -21,7 +21,7 @@ In this way, we can always input any cjkv characters easily.
         │   ├── 0
         │   │   ├── cangjie5
         │   │   └── zhengma
-        │   └── e01ef
+        │   └── e01ee
         │       ├── cangjie5
         │       └── zhengma
         ├── 697c
